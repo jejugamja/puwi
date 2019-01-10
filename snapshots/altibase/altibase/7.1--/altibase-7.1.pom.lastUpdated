@@ -1,0 +1,28 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jan 10 22:53:36 KST 2019
+file\:///Users/jungchangyoung/Develop/IntelliJ/PUWI/lib/.error=
+file\:///Users/jungchangyoung/Develop/IntelliJ/[PUWI]Collector/lib/.error=
+file\:///Users/jungchangyoung/Develop/IntelliJ/[DKMG]Ems/lib/.lastUpdated=1544156565246
+https\://github.com/jejugamja/puwi/tree/master/snapshots/altibase/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1547125588919
+file\:///Users/jungchangyoung/Develop/IntelliJ/[PUWI]Collector/Mexus/lib/.lastUpdated=1547128390054
+file\:///Users/jungchangyoung/Develop/IntelliJ/PUWI/mexus/lib/.error=
+https\://repo.maven.apache.org/maven2/.error=
+@default-local-repo-file\://${project.basedir}/lib/.lastUpdated=1541732224900
+file\:///Users/jungchangyoung/Develop/IntelliJ/[PUWI]Collector/Collector/lib/.lastUpdated=1541738423109
+https\://github.com/jejugamja/puwi/tree/master/snapshots/.lastUpdated=1547128416419
+https\://github.com/jejugamja/puwi/tree/master/snapshots/.error=
+file\:///Users/jungchangyoung/Develop/IntelliJ/[PUWI]Collector/Collector/lib/.error=
+.error=Could not transfer artifact altibase\:altibase\:pom\:7.1 from/to  ()\: Cannot access  with type default using the available connector factories\: BasicRepositoryConnectorFactory
+file\:///Users/jungchangyoung/Develop/IntelliJ/[DKMG]Ems/lib/.error=
+file\:///Users/jungchangyoung/Develop/IntelliJ/[PUWI]Collector/Mexus/lib/.error=
+file\:///Users/jungchangyoung/Develop/IntelliJ/[PUWI]Collector/Core/lib/.lastUpdated=1547125587480
+file\:///Users/jungchangyoung/Develop/IntelliJ/PUWI/mexus/lib/.lastUpdated=1544156399033
+https\://github.com/jejugamja/puwi/tree/master/snapshots/altibase/.lastUpdated=1547128387872
+file\:///Users/jungchangyoung/Develop/IntelliJ/[PUWI]Collector/lib/.lastUpdated=1543387222546
+file\:///Users/jungchangyoung/Develop/IntelliJ/[PUWI]Collector/BigData/lib/.error=
+file\:///Users/jungchangyoung/Develop/IntelliJ/[PUWI]Collector/BigData/lib/.lastUpdated=1541742532733
+file\:///Users/jungchangyoung/Develop/IntelliJ/[PUWI]Collector/Core/lib/.error=
+file\://${project.basedir}/lib/.error=Could not transfer artifact altibase\:altibase\:pom\:7.1 from/to local-repo (file\://${project.basedir}/lib)\: Repository path /lib does not exist, and cannot be created.
+@default--.lastUpdated=1547128371736
+file\:///Users/jungchangyoung/Develop/IntelliJ/PUWI/lib/.lastUpdated=1544156395085

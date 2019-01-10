@@ -1,3 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Oct 17 16:50:02 KST 2018
-dialect-8.0.0.jar>local-repo=
+#Thu Jan 10 22:53:38 KST 2019
+altibase-7.1.jar>altibase-repository=
+altibase-7.1.jar>local-repo=
